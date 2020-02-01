@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AudioRecorder</string>
+    <string name="notification_channel_name">recording</string>
+    <string name="notification_channel_description">Запись</string>
+    <string name="notification_text_title">Запись</string>
+    <string name="time">%d : %02d</string>
+    <string name="audio_resource_name">Название аудиофайла</string>
+    <string name="no_records">Отсутствуют записи в хранилище</string>
+    <string name="playing_notification_name">Playing</string>
+    <string name="playing_notification_description">Воспроизведение</string>
+    <string name="error_text">Введите название записи!</string>
+</resources>

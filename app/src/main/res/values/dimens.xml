@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layout_padding">8dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="default_dimen">8dp</dimen>
+    <dimen name="corners">4dp</dimen>
+    <dimen name="button_padding">4dp</dimen>
+    <dimen name="layout_dimen">4dp</dimen>
+    <dimen name="im_btn_margin">8dp</dimen>
+    <dimen name="rel_layout_padding">16dp</dimen>
+    <dimen name="def_margin">8dp</dimen>
+    <dimen name="icon_dimen">108dp</dimen>
+</resources>
